@@ -1,6 +1,6 @@
-# password_manager
+# password_manager_login_page
 
-A new Flutter project.
+This is a flutter password manager login page with biometrics
 
 ## Getting Started
 
